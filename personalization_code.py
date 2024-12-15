@@ -123,8 +123,6 @@ print("Generated Goals based on past goals:", goals)
 # from enum import Enum
 # import openai
 
-# # load and set key
-# openai.api_key = "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"
 
 # class TimeOfDay(Enum):
 #     MORNING = "morning"
